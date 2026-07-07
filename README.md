@@ -50,7 +50,8 @@ Agent that searches the information over web
 
 
 
-# END TO END FLOW USED (i.e. Configuration, Databricks Market Place --> Catalog --> Create Serving Endpoint --> Configure ---> Use)
+# END TO END FLOW USED 
+## (i.e. Configuration, Databricks Market Place --> Catalog --> Create Serving Endpoint --> Configure ---> Use)
 <img width="1915" height="1076" alt="image" src="https://github.com/user-attachments/assets/e31f70e6-e4f7-47cc-8c72-a7f4ca61a6a6" />
 
 
