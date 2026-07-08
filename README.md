@@ -1,5 +1,5 @@
 # agentBricks
-Agent that searches the information over web
+Agent that searches the information over web :
 
 <img width="1531" height="763" alt="image" src="https://github.com/user-attachments/assets/c99e2a34-dd7a-4f9b-9245-9a246af36fd3" />
 
