@@ -47,11 +47,17 @@ Agent that searches the information over web :
 
 <img width="1354" height="574" alt="image" src="https://github.com/user-attachments/assets/09eed491-3156-4432-b94f-266266cd5134" />
 
+<img width="603" height="473" alt="image" src="https://github.com/user-attachments/assets/21df0db7-8228-4ae7-a356-d512bb65ea83" />
 
+<img width="603" height="482" alt="image" src="https://github.com/user-attachments/assets/b1aafb8f-a584-4755-9212-9e0ed6dda751" />
 
 
 # END TO END FLOW USED 
+
+
 ## (i.e. Configuration, Databricks Market Place --> Catalog --> Create Serving Endpoint --> Configure ---> Use)
+
+
 <img width="1915" height="1076" alt="image" src="https://github.com/user-attachments/assets/e31f70e6-e4f7-47cc-8c72-a7f4ca61a6a6" />
 
 
