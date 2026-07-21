@@ -4,7 +4,7 @@ https://python.langchain.com/docs/integration/tools/
 
 
 
-
+ 
 %pip install --upgrade --quiet langchain langchain-community langchain-openai langchain-databricks wikipedia duckduckgo-search youtube_search  
 
 
